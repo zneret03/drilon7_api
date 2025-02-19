@@ -230,7 +230,7 @@
         "title": "Mashup Garage",
         "imageSource": "/image/mashupgarage.jpg",
         "source": "https://www.mashupgarage.com/",
-        "description": "Designed and developed front-end web application that is made by react, nextJs, tailwind and firebase as leading technology, making web application that will be using by the different teams/university in different game platforms, transforming prototypes into reusable react components",
+        "description": "Developed and collaborated with the client’s product designer to create a seamless and interactive Next.js application. Implemented queries and mutations in the backend using Elixir and Phoenix while working closely with QA and the Product Manager to deliver high-quality, priority features.",
         "startDate": "March 2023",
         "endDate": "Present"
       },
